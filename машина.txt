@@ -1,0 +1,19 @@
+a b c d λ
+q0 aRq0 bRq0 cRq0 dRq0 λLq1
+q1aLq_la bLq_lb cLq_lc dLq_ld !
+q_la aLq_la bLq_dela cLq_dela dLq_dela λRq_only
+q_lb aLq_delb bLq_lb cLq_delb dLq_delb λRq_only
+q_lc aLq_delc bLq_delc cLq_lc dLq_delc λRq_only
+q_ld aLq_deld bLq_deld cLq_deld dLq_ld λRq_only
+q_dela λLq_dela λLq_dela λLq_dela λLq_dela λRq_ka
+q_delb λLq_delb λLq_delb λLq_delb λLq_delb λRq_kb
+q_delc λLq_delc λLq_delc λLq_delc λLq_delc λRq_kc
+q_deld λLq_deld λLq_deld λLq_deld λLq_deld λRq_kd
+q_ka aRq_ka bRq_sk cRq_sk dRq_sk λRq_ka
+q_kb aRq_sk bRq_kb cRq_sk dRq_sk λRq_kb
+q_kc aRq_sk bRq_sk cRq_kc dRq_sk λRq_kc
+q_kd aRq_sk bRq_sk cRq_sk dRq_kd λRq_kd
+q_sk aRq_erase bRq_erase cRq_erase dRq_erase !
+q_erase λRq_erase λRq_erase λRq_erase λRq_erase !
+q_only aRq_only2 bRq_only2 cRq_only2 dRq_only2 λRq_only
+q_only2 λRq_only2 λRq_only2 λRq_only2 λRq_only2 !
